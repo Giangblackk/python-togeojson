@@ -2,3 +2,4 @@
 
 # generate a short, numeric hash of a string
 def okhash(x):
+  print('hello')
